@@ -42,7 +42,7 @@ Three bugs need to be fixed in future:
 
 #################### JOIN US ##############################
 If you want to join in our project, please contact me: 
-      Xiao.A.Xu@alcatel-sbell.com.cn
+      leemingeer@gmail.com.cn
 Folk the repo and pull it after develop. So easy, right?
 
 
